@@ -5,6 +5,20 @@
 
 ------
 
+
+## 1월 4주차(1.24~1.28)
+
+#### Problem Solving
+- [자료구조 문제 풀기](https://github.com/tony9402/baekjoon/tree/main/data_structure)
+
+#### CS
+- 이메일로 온 것 공부  
+
+#### Project
+- 세부 사항 조율 및 구현 시작
+
+<br>
+
 ## 1월 3주차(1.17~1.21)
 
 #### Problem Solving
