@@ -1,8 +1,7 @@
 import sys
 input = sys.stdin.readline
 
-brackets = input()
-stack = []
+brackets = input().rstrip()
 answer = 0
 
 for x in brackets:
